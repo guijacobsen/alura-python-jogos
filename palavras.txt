@@ -1,0 +1,7 @@
+melancia
+banana
+uva
+morango
+carro
+macaco
+cachorro
